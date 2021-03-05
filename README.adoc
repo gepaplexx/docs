@@ -16,7 +16,7 @@ this needs to be easy.
  * combine the docs from individual repos to one central document
  
 === example on gitlab:
-https://gitlab.com/gepaplexx/gp-documentation-example
+https://gitlab.com/gepaplexx/gp-documentation-example +
 https://gepaplexx.gitlab.io/gp-documentation-example/
 
 === current main document:
