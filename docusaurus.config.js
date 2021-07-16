@@ -23,6 +23,12 @@ module.exports = {
       items: [
         {
           type: 'doc',
+          docId: 'architecture/intro',
+          position: 'left',
+          label: 'Architecture',
+        },
+        {
+          type: 'doc',
           docId: 'intro',
           position: 'left',
           label: 'Tutorial',
