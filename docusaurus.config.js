@@ -3,16 +3,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'gepaplexx docs',
+  title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://gepaplexx.github.io',
-  trailingSlash: true,
-  baseUrl: '/docs/',
+  url: 'https://your-docusaurus-test-site.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'gepaplexx', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
