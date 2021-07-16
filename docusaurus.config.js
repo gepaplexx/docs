@@ -6,6 +6,7 @@ module.exports = {
   title: 'gepaplexx docs',
   tagline: 'Dinosaurs are cool',
   url: 'https://gepaplexx.github.io',
+  trailingSlash: true,
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
